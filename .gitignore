@@ -1,0 +1,5 @@
+images/*.[jJ][pP][gG]
+images/*.[jJ][pP][eE][gG]
+images/*.[pP][nN][gG]
+output/*.json
+.idea/
